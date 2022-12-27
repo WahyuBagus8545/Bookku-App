@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+
+
+    tools:context=".AddActivity">
+
+
+
+
+    <LinearLayout
+        android:layout_margin="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="250dp"
+            android:text="Back" />
+
+        <EditText
+            android:id="@+id/roll"
+            android:hint="Add urutan no."
+            android:textColorHint="#808080"
+            android:layout_width="match_parent"
+            android:textColor="@color/black"
+            android:layout_height="60dp"/>
+        <EditText
+            android:id="@+id/judul"
+            android:hint="Add Judul Buku"
+            android:textColorHint="#808080"
+            android:layout_width="match_parent"
+            android:textColor="@color/black"
+            android:layout_height="60dp"/>
+
+        <EditText
+            android:id="@+id/namapengarang"
+            android:hint="Add Nama Pengarang"
+            android:textColorHint="#808080"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+        <EditText
+            android:id="@+id/harga"
+            android:hint="Add Harga"
+            android:textColorHint="#808080"
+            android:layout_width="match_parent"
+            android:textColor="@color/black"
+            android:layout_height="60dp"/>
+        <EditText
+            android:id="@+id/deskripsi"
+            android:hint="Add Deskripsi"
+            android:textColorHint="#808080"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <Button
+            android:id="@+id/add"
+            android:text="Add"
+            android:layout_margin="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+</LinearLayout>

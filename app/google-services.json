@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1086340992919",
+    "firebase_url": "https://bookku-19c13-default-rtdb.firebaseio.com",
+    "project_id": "bookku-19c13",
+    "storage_bucket": "bookku-19c13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086340992919:android:3c6b327b01a36a7abc7ed2",
+        "android_client_info": {
+          "package_name": "com.wahyubagus.bookku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086340992919-74lqgccivhe9118tp139smujltdv7ld0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkWi4VAoQ-PGTHPsWIVXvELeaFKn6bvaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086340992919-74lqgccivhe9118tp139smujltdv7ld0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086340992919:android:14c19c1734a3e294bc7ed2",
+        "android_client_info": {
+          "package_name": "com.wahyubagus.ppbproyek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086340992919-74lqgccivhe9118tp139smujltdv7ld0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkWi4VAoQ-PGTHPsWIVXvELeaFKn6bvaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086340992919-74lqgccivhe9118tp139smujltdv7ld0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086340992919:android:93a5725f87b472a9bc7ed2",
+        "android_client_info": {
+          "package_name": "com.wahyubagus.tugasppb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086340992919-74lqgccivhe9118tp139smujltdv7ld0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkWi4VAoQ-PGTHPsWIVXvELeaFKn6bvaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086340992919-74lqgccivhe9118tp139smujltdv7ld0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
